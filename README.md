@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @jlopez1288 or just simply call me Jenn
+- 👋 Hi, I’m Jenn
 - 👀 I’m interested in ... Data and Health
-- 🌱 I’m currently learning ...Python and Machine Learning
+- 🌱 I’m currently learning ...Data Science
 - 💞️ I’m looking to collaborate on ...health and community projects that can help build a strong background for a portfolio 
 - 📫 How to reach me ...via email at jennifer.lopez09@icloud.com
 <!---
